@@ -1,5 +1,5 @@
 <launch>
-  <arg name="mname" default="odroid0" />
+  <arg name="mname" default="odroid" />
 
   <arg name="odroid_machine_path" default="/home/odroid/coop_slam_workspace/src/odroid_machine" />
   
